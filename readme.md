@@ -51,3 +51,5 @@ add a script to plock
 This should create a build folder inside of client with your static assets.
 
 We added server.use in index.js and server.get to allow the deployment to find these files and directory.
+
+Reference vid: https://bloomtech-1.wistia.com/medias/ajo8t0qsbp
