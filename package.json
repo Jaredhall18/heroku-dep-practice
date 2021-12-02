@@ -4,7 +4,8 @@
   "description": "Steps for creating a new project. Start with your mkdir {filename}\r touch index.js //Makes a new file for you",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "heroku-postbuild": "cd client && npm i && npm run build"
   },
   "keywords": [],
   "author": "",
