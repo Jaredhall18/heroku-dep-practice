@@ -1,0 +1,16 @@
+{
+  "name": "heroku-practice",
+  "version": "1.0.0",
+  "description": "Steps for creating a new project. Start with your mkdir {filename}\r touch index.js //Makes a new file for you",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
